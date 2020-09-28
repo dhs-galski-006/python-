@@ -1,5 +1,4 @@
-# python-
-full of snakes
+# python- full of snakes
 Viper Adder
 Common adder
 Death Adder
@@ -226,7 +225,6 @@ Hundred pacer
 I
 Ikaheka snake
 Indigo snake
-
 J
 Jamaican Tree Snake
 Jararacussu

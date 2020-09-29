@@ -1,150 +1,148 @@
 # python- full of snakes
-Viper Adder
-Common adder
-Death Adder
-Desert death adder
-Horned adder
-Long-nosed adder
-Many-horned adder
-Mountain adder
-Mud adder
-Namaqua dwarf adder
-Nightingale adder
-Peringuey's adder
-Puff adder
-African puff adder
-Rhombic night adder
-Sand adder
-Dwarf sand adder
-Namib dwarf sand adder
-Water adder
-Aesculapian snake
-Anaconda
-Bolivian anaconda
-De Schauensee's anaconda
-Green anaconda
-Yellow anaconda
-Arafura file snake
-Asp
-European asp
-Egyptian asp
-African beaked snake
-|
-Ball Python
-Bird snake
-Black-headed snake
-Mexican black kingsnake
-Black rat snake
-Black snake
-Red-bellied black snake
-Blind snake
-Brahminy blind snake
-Texas blind snake
-Western blind snake
-Boa
-Abaco Island boa
-Amazon tree boa
-Boa constrictor
-Cuban boa
-Dumeril's boa
-Dwarf boa
-Emerald tree boa
-Hogg Island boa
-Jamaican boa
-Madagascar ground boa
-Madagascar tree boa
-Puerto Rican boa
-Rainbow boa
-Red-tailed boa
-Rosy boa
-Rubber boa
-Sand boa
-Tree boa
-Boiga
-Boomslang
-Brown snake
-Eastern brown snake
-Bull snake
-Bushmaster
-Dwarf beaked snake
-Rufous beaked snake
-|
-Canebrake
-Cantil
-Cascabel
-Cat-eyed snake
-Banded cat-eyed snake
-Green cat-eyed snake
-Cat snake
-Andaman cat snake
-Beddome's cat snake
-Dog-toothed cat snake
-Forsten's cat snake
-Gold-ringed cat snake
-Gray cat snake
-Many-spotted cat snake
-Nicobar cat snake
-Sri Lanka cat snake
-Tawny cat snake
-Chicken snake
-Coachwhip snake
-Cobra
-Andaman cobra
-Arabian cobra
-Asian cobra
-Banded water cobra
-Black-necked cobra
-Black-necked spitting cobra
-Black tree cobra
-Burrowing cobra
-Cape cobra
-Caspian cobra
-Chinese cobra
-Cobra de capello
-Congo water cobra
-Common cobra
-Eastern water cobra
-Egyptian cobra
-Equatorial spitting cobra
-False cobra
-False water cobra
-Forest cobra
-Gold tree cobra
-Indian cobra
-Indochinese spitting cobra
-Javan spitting cobra
-King cobra
-Mandalay cobra
-Monocled cobra
-Monoculate cobra
-Mozambique spitting cobra
-North Philippine cobra
-Nubian spitting cobra
-Philippine cobra
-Red spitting cobra
-Rinkhals cobra
-Shield-nosed cobra
-Sinai desert cobra
-Southern Indonesian spitting cobra
-Southern Philippine cobra
-Southwestern black spitting cobra
-Snouted cobra
-Spectacled cobra
-Spitting cobra
-Storm water cobra
-Thai cobra
-Taiwan cobra
-West African brown spitting cobra
-White-lipped cobra
-Yellow cobra
-Zebra spitting cobra
-Collett's snake
-Congo snake
-Copperhead
-American copperhead
-Australian copperhead
-Coral snake
-Arizona coral snake
+Viper Adder|
+Common adder|
+Death Adder|
+Desert death adder|
+Horned adder|
+Long-nosed adder|
+Many-horned adder|
+Mountain adder|
+Mud adder|
+Namaqua dwarf adder|
+Nightingale adder|
+Peringuey's adder|
+Puff adder|
+African puff adder|
+Rhombic night adder|
+Sand adder|
+Dwarf sand adder|
+Namib dwarf sand adder|
+Water adder|
+Aesculapian snake|
+Anaconda|
+Bolivian anaconda|
+De Schauensee's anaconda|
+Green anaconda|
+Yellow anaconda|
+Arafura file snake|
+Asp|
+European asp|
+Egyptian asp|
+African beaked snake|
+Ball Python|
+Bird snake|
+Black-headed snake|
+Mexican black kingsnake|
+Black rat snake|
+Black snake|
+Red-bellied black snake|
+Blind snake||
+Brahminy blind snake|
+Texas blind snake|
+Western blind snake|
+Boa|
+Abaco Island boa|
+Amazon tree boa|
+Boa constrictor|
+Cuban boa|
+Dumeril's boa|
+Dwarf boa|
+Emerald tree boa|
+Hogg Island boa|
+Jamaican boa|
+Madagascar ground boa|
+Madagascar tree boa|
+Puerto Rican boa|
+Rainbow boa|
+Red-tailed boa|
+Rosy boa|
+Rubber boa|
+Sand boa|
+Tree boa|
+Boiga|
+Boomslang|
+Brown snake|
+Eastern brown snake|
+Bull snake|
+Bushmaster|
+Dwarf beaked snake|
+Rufous beaked snake|
+Canebrake|
+Cantil|
+Cascabel|
+Cat-eyed snake|
+Banded cat-eyed snake|
+Green cat-eyed snake|
+Cat snake|
+Andaman cat snake|
+Beddome's cat snake|
+Dog-toothed cat snake|
+Forsten's cat snake|
+Gold-ringed cat snake|
+Gray cat snake|
+Many-spotted cat snake|
+Nicobar cat snake|
+Sri Lanka cat snake|
+Tawny cat snake|
+Chicken snake|
+Coachwhip snake|
+Cobra|
+Andaman cobra|
+Arabian cobra|
+Asian cobra|
+Banded water cobra|
+Black-necked cobra|
+Black-necked spitting cobra|
+Black tree cobra|
+Burrowing cobra|
+Cape cobra|
+Caspian cobra|
+Chinese cobra|
+Cobra de capello|
+Congo water cobra|
+Common cobra|
+Eastern water cobra|
+Egyptian cobra|
+Equatorial spitting cobra|
+False cobra|
+False water cobra|
+Forest cobra|
+Gold tree cobra|
+Indian cobra|
+Indochinese spitting cobra|
+Javan spitting cobra|
+King cobra|
+Mandalay cobra|
+Monocled cobra|
+Monoculate cobra|
+Mozambique spitting cobra|
+North Philippine cobra|
+Nubian spitting cobra|
+Philippine cobra|
+Red spitting cobra|
+Rinkhals cobra|
+Shield-nosed cobra|
+Sinai desert cobra|
+Southern Indonesian spitting cobra|
+Southern Philippine cobra|
+Southwestern black spitting cobra|
+Snouted cobra|
+Spectacled cobra|
+Spitting cobra|
+Storm water cobra|
+Thai cobra|
+Taiwan cobra|
+West African brown spitting cobra|
+White-lipped cobra|
+Yellow cobra|
+Zebra spitting cobra|
+Collett's snake|
+Congo snake|
+Copperhead|
+American copperhead|
+Australian copperhead|
+Coral snake|
+Arizona coral snake|
 Beddome's coral snake
 Brazilian coral snake
 Cape coral snake
@@ -635,8 +633,6 @@ Barred wolf snake
 Worm snake
 Common worm snake
 Longnosed worm snake
-Wutu
-|
-Yarara
-|
+Wutu|
+Yarara|
 Zebra snake

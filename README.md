@@ -29,7 +29,7 @@ Asp
 European asp
 Egyptian asp
 African beaked snake
-B
+|
 Ball Python
 Bird snake
 Black-headed snake
@@ -68,7 +68,7 @@ Bull snake
 Bushmaster
 Dwarf beaked snake
 Rufous beaked snake
-C
+|
 Canebrake
 Cantil
 Cascabel
@@ -160,13 +160,13 @@ South eastern corn snake
 Cottonmouth
 Crowned snake
 Cuban wood snake
-E
+|
 Eastern hognose snake
 Egg-eater
 Indian egg-eater
 Eyelash viper
 Eastern coral snake
-F
+|
 Fer-de-lance
 Fierce snake
 Fishing snake
@@ -180,7 +180,7 @@ Twin-Barred tree snake
 Banded Flying Snake
 Fox snake, three species of Pantherophis
 Forest flame snake
-G
+|
 Garter snake
 Checkered garter snake
 Common garter snake
@@ -197,7 +197,7 @@ Ground snake
 Common ground snake
 Three-lined ground snake
 Western ground snake
-H
+|
 Habu
 Himehabu
 Okinawan habu
@@ -222,13 +222,13 @@ Tri-color hognose snake
 Western hognose snake
 Hoop snake
 Hundred pacer
-I
+|
 Ikaheka snake
 Indigo snake
-J
+|
 Jamaican Tree Snake
 Jararacussu
-K
+|
 Keelback
 Andrea's keelback
 Asian keelback
@@ -277,7 +277,7 @@ Northeastern hill krait[2]
 Red-headed krait
 Sind krait
 South Andaman krait
-L
+|
 Large shield snake
 Lancehead
 Common lancehead
@@ -288,7 +288,7 @@ Baja California lyresnake
 Central American lyre snake
 Texas lyre snake
 Eastern lyre snake
-M
+|
 Machete savane
 Mamba
 Black mamba
@@ -304,7 +304,7 @@ Mud snake
 Eastern mud snake
 Western mud snake
 Mussurana
-N
+|
 Night snake
 Cat-eyed night snake
 Texas night snake
@@ -313,7 +313,7 @@ Narrowhead Garter Snake
 Nose-horned viper
 Rhinoceros viper
 Vipera ammodytes
-P
+|
 Parrot snake
 Mexican parrot snake
 Patchnose snake
@@ -380,9 +380,9 @@ Northern white-lipped python
 Southern white-lipped python
 Woma python
 Western woma python
-Q
+|
 Queen snake
-R
+|
 Racer
 Bimini racer
 Buttermilk racer
@@ -442,7 +442,7 @@ Western diamondback rattlesnake
 Ribbon snake
 Rinkhals
 River jack
-S
+|
 Sea snake
 Annulated sea snake
 Beaked sea snake
@@ -468,7 +468,7 @@ Stiletto snake
 Striped snake
 Japanese striped snake
 Sunbeam snake
-T
+|
 Taipan
 Central ranges taipan
 Coastal taipan
@@ -500,9 +500,9 @@ Twig snake
 African twig snake
 Twin Headed King Snake
 Titanboa
-U
+|
 Urutu
-V
+|
 Vine snake
 Asian Vine Snake, Whip Snake
 American Vine Snake
@@ -621,7 +621,7 @@ Sumatran tree viper
 White-lipped tree viper
 Ursini's viper
 Western hog-nosed viper
-W
+|
 Wart snake
 Water moccasin
 Water snake
@@ -636,8 +636,7 @@ Worm snake
 Common worm snake
 Longnosed worm snake
 Wutu
-X
-Y
+|
 Yarara
-Z
+|
 Zebra snake

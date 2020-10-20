@@ -23,7 +23,8 @@ while True:
       counter += 1
     if each_word == "angry":
       feelings_list.append("angry")
-      encouragement_list.append("the longer you suppress it, the bigger the explosion.")
+      encouragement_list.append("the longer you suppress it, the bigger the explosion")
+      counter += 1
     if each_word == "overwhelmed":
       feelings_list.append("overwhelmed")
       encouragement_list.append("Xanax is a thing")

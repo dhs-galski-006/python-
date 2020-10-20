@@ -19,11 +19,11 @@ while True:
       counter += 1
     if each_word == "tired":
       feelings_list.append("tired")
-      encouragement_list.append("you should sleep. don't complain if you're afraid you can't wake up")
+      encouragement_list.append("you should sleep. unless you can't, because sometimes it's impossible to fall asleep. Also keep in mind that it is possible to never wake up.")
       counter += 1
     if each_word == "angry":
       feelings_list.append("angry")
-      encouragement_list.append("walls are existent, so are punching bags")
+      encouragement_list.append("the longer you suppress it, the bigger the explosion.")
     if each_word == "overwhelmed":
       feelings_list.append("overwhelmed")
       encouragement_list.append("Xanax is a thing")

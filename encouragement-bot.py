@@ -25,11 +25,19 @@ while True:
       feelings_list.append("angry")
       encouragement_list.append("the longer you suppress it, the bigger the explosion")
       counter += 1
-    if each_word == "overwhelmed":
-      feelings_list.append("overwhelmed")
-      encouragement_list.append("Xanax is a thing")
+    if each_word == "scared":
+      feelings_list.append("scared")
+      encouragement_list.append("you're not alone. or is that the scary part?")
       counter += 1
-      
+       if each_word == "excited":
+      feelings_list.append("excited")
+      encouragement_list.append("i hope you don't get disappointed")
+      counter += 1
+       if each_word == "bored":
+      feelings_list.append("bored")
+      encouragement_list.append("i'm impressed. You're bored enough to talk to a bot. Wait, isn't that just lonely?")
+      counter += 1
+       
   if counter == 0:
     
       output = "Sorry I don't really understand. Please use different words?"

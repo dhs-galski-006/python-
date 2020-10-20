@@ -29,11 +29,11 @@ while True:
       feelings_list.append("scared")
       encouragement_list.append("you're not alone. or is that the scary part?")
       counter += 1
-       if each_word == "excited":
+    if each_word == "excited":
       feelings_list.append("excited")
       encouragement_list.append("i hope you don't get disappointed")
       counter += 1
-       if each_word == "bored":
+    if each_word == "bored":
       feelings_list.append("bored")
       encouragement_list.append("i'm impressed. You're bored enough to talk to a bot. Wait, isn't that just lonely?")
       counter += 1

@@ -37,6 +37,14 @@ while True:
       feelings_list.append("bored")
       encouragement_list.append("i'm impressed. You're bored enough to talk to a bot. Wait, isn't that just lonely?")
       counter += 1
+    if each_word == "dead":
+      feelings_list.append("dead")
+      encouragement_list.append("Good. Keep up the good work :D")
+      counter += 1
+    if each_word == "food":
+      feelings_list.append("food")
+      encouragement_list.append("Eat some onigiris, they'll help. Just remember to check for poison before you eat, unlesss you like the taste of poison.")
+      counter += 1
        
   if counter == 0:
     
